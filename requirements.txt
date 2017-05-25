@@ -5,7 +5,7 @@ colormap==1.0.1
 cvxopt==1.1.9
 easydev==0.9.34
 future==0.16.0
-matplotlib==2.0.0
+matplotlib==2.0.2
 neurom==1.4.2
 PICOS==1.1.2
 plotly==1.12.9
