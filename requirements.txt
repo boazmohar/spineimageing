@@ -1,6 +1,6 @@
 bolt-python==0.7.1
 Bottleneck==1.2.1
-bson==0.4.7
+bson==0.4.8
 colormap==1.0.1
 cvxopt==1.1.9
 easydev==0.9.34
