@@ -1,7 +1,7 @@
 bson==0.4.8
 colormap==1.0.1
 cvxopt==1.1.9
-easydev==0.9.34
+easydev==0.9.35
 future==0.16.0
 matplotlib==2.0.2
 neurom==1.4.2
