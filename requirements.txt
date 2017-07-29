@@ -7,7 +7,7 @@ matplotlib==2.0.2
 neurom==1.4.2
 PICOS==1.1.2
 plotly==2.0.12
-PySAL==1.14.0
+PySAL==1.14.1
 pymongo==3.4.0
 SimpleITK==1.0.0
 statsmodels==0.8.0
