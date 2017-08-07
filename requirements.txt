@@ -9,7 +9,7 @@ PICOS==1.1.2
 plotly==2.0.13
 PySAL==1.14.1
 pymongo==3.4.0
-SimpleITK==1.0.0
+SimpleITK==1.0.1
 statsmodels==0.8.0
 thunder-python==1.4.2
 tifffile==0.12.1
