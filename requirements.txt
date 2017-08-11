@@ -1,5 +1,5 @@
 pyspark==2.2.0.post0
-scikit-learn==0.18.2
+scikit-learn==0.19.0
 sympy==1.1.1
 scikits.bootstrap==0.3.2
 tables==3.4.2
