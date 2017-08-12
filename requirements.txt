@@ -6,7 +6,7 @@ tables==3.4.2
 xmltodict==0.11.0
 xlsxwriter==0.9.8
 pySparkUtils==0.2.3
-animateimages==0.2.0
+animateimages==0.2.1
 bson==0.4.8
 colormap==1.0.1
 cvxopt==1.1.9
