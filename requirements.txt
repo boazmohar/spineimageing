@@ -17,5 +17,5 @@ scikits.bootstrap==0.3.3
 SimpleITK==1.0.1
 sympy==1.1.1
 tables==3.4.2
-xlsxwriter==0.9.8
+xlsxwriter==0.9.9
 xmltodict==0.11.0
