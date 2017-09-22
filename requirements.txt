@@ -1,4 +1,4 @@
-animateimages==0.2.1
+animateimages==0.2.2
 bson==0.4.8
 colormap==1.0.1
 cvxopt==1.1.9
