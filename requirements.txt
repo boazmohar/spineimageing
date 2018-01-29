@@ -13,7 +13,7 @@ pyspark==2.2.0.post0
 pySparkUtils==0.2.5
 requests==2.18.4
 scikit-learn==0.19.1
-scikits.bootstrap==0.3.3
+scikits.bootstrap==1.0.0
 SimpleITK==1.0.1
 sympy==1.1.1
 tables==3.4.2
