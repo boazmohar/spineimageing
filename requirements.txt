@@ -1,5 +1,5 @@
 animateimages==0.2.3
-bson==0.5.1
+bson==0.5.2
 colormap==1.0.1
 cvxopt==1.1.9
 easydev==0.9.36
