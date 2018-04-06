@@ -1,4 +1,4 @@
-animateimages==0.2.3
+https://github.com/boazmohar/animateimages.git
 bson==0.5.2
 colormap==1.0.1
 colorcet==0.9.1
