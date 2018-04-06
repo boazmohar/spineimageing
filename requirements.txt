@@ -6,7 +6,7 @@ easydev==0.9.36
 future==0.16.0
 neurom==1.4.5
 PICOS==1.1.2
-plotly==2.3.0
+plotly==2.5.1
 pymongo==3.6.0
 PySAL==1.14.3
 pyspark==2.2.1
