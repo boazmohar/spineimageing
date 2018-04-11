@@ -3,7 +3,7 @@ bson==0.5.2
 colormap==1.0.1
 colorcet==0.9.1
 cvxopt==1.1.9
-easydev==0.9.36
+easydev==0.9.37
 future==0.16.0
 gspread==0.6.2
 https://github.com/dmishin/tsp-solver/archive/v0.21.zip
