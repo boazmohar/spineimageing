@@ -13,7 +13,7 @@ networkx==2.1
 neurom==1.4.5
 numpy==1.14.2
 numpy_groupies==0.9.7
-oauth2client==4.1.2
+oauth2client==4.1.3
 pandas==0.22.0
 PICOS==1.1.2
 plotly==2.5.1
