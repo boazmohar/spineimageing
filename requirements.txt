@@ -7,7 +7,7 @@ easydev==0.9.36
 future==0.16.0
 gspread==0.6.2
 https://github.com/dmishin/tsp-solver/archive/v0.21.zip
-ipywidgets==7.2.0
+ipywidgets==7.4.2
 ipython==6.3.1
 networkx==2.1
 neurom==1.4.5
