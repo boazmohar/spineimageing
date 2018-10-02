@@ -23,7 +23,7 @@ pySparkUtils==0.2.5
 pywavesurfer=0.0.2
 requests==2.18.4
 scikit-learn==0.19.1
-scikit-image==0.13.1
+scikit-image==0.14.1
 scikits.bootstrap==1.0.0
 SimpleITK==1.1.0
 sympy==1.1.1
