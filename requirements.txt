@@ -2,8 +2,8 @@ https://github.com/boazmohar/animateimages.git
 bson==0.5.7
 colormap==1.0.1
 colorcet==0.9.1
+easydev==0.9.37
 cvxopt==1.2.2
-easydev==0.9.36
 future==0.17.1
 gspread==0.6.2
 https://github.com/dmishin/tsp-solver/archive/v0.21.zip
