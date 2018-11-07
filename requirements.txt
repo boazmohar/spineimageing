@@ -4,7 +4,7 @@ colormap==1.0.1
 colorcet==0.9.1
 cvxopt==1.1.9
 easydev==0.9.36
-future==0.16.0
+future==0.17.1
 gspread==0.6.2
 https://github.com/dmishin/tsp-solver/archive/v0.21.zip
 ipywidgets==7.2.0
