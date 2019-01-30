@@ -9,7 +9,7 @@ gspread==0.6.2
 https://github.com/dmishin/tsp-solver/archive/v0.21.zip
 ipywidgets==7.2.0
 ipython==6.3.1
-numpy_groupies==0.9.8.4
+numpy_groupies==0.9.9
 neurom==1.4.10
 networkx==2.2
 numpy==1.15.4
