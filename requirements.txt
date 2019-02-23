@@ -18,7 +18,7 @@ pandas==0.23.4
 oauth2client==4.1.3
 pymongo==3.7.2
 plotly==3.4.0
-PICOS==1.1.3.post7
+PICOS==1.2.0.post11
 pySparkUtils==0.2.5
 pywavesurfer=0.0.2
 scikit-learn==0.20.0
